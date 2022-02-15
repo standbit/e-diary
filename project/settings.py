@@ -18,7 +18,7 @@ DATABASES = {
     }
 }
 
-INSTALLED_APPS = ['datacenter']
+INSTALLED_APPS = ['datacenter', 'django_extensions']
 
 ROOT_URLCONF = 'project.urls'
 
